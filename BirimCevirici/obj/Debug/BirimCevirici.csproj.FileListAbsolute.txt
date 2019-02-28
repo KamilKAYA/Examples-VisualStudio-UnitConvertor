@@ -1,0 +1,56 @@
+E:\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.config
+E:\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe
+E:\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.pdb
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csprojAssemblyReference.cache
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.mainForm.resources
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.Properties.Resources.resources
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.GenerateResource.cache
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.CoreCompileInputs.cache
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe
+E:\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.pdb
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.config
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.pdb
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csprojAssemblyReference.cache
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.mainForm.resources
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.Properties.Resources.resources
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.GenerateResource.cache
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.CoreCompileInputs.cache
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe
+C:\Users\Kamil KAYA\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.pdb
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.config
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.pdb
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.pdb
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.mainForm.resources
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.Properties.Resources.resources
+C:\Users\fatih\Desktop\Fati\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.config
+C:\Users\fatih\Desktop\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe
+C:\Users\fatih\Desktop\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.pdb
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.config
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.pdb
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csprojAssemblyReference.cache
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.mainForm.resources
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.Properties.Resources.resources
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.GenerateResource.cache
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.CoreCompileInputs.cache
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe
+E:\Fati 27.02.2019 00.29 calısan\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.pdb
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.config
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe.manifest
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.application
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.exe
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\bin\Debug\BirimCevirici.pdb
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csprojAssemblyReference.cache
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.mainForm.resources
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.Properties.Resources.resources
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.GenerateResource.cache
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.csproj.CoreCompileInputs.cache
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe.manifest
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.application
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.exe
+C:\Users\Kamil KAYA\Desktop\BirimCevirici\BirimCevirici\obj\Debug\BirimCevirici.pdb
